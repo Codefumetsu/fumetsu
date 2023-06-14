@@ -478,16 +478,17 @@ section {
 }
 
 .hero h1 {
-  margin: 0;
-  font-size: 48px;
-  font-weight: 700;
+  margin-right:0px;
+  font-size: 38px;
+  font-weight: 800;
   color: #012970;
 }
 
 .hero h2 {
   color: #444444;
   margin: 15px 0 0 0;
-  font-size: 26px;
+  font-size: 20px;
+  line-height: 150%;
 }
 
 .hero .btn-get-started {
@@ -537,6 +538,7 @@ section {
   .hero .hero-img {
     text-align: center;
     margin-top: 80px;
+
   }
 
   .hero .hero-img img {
